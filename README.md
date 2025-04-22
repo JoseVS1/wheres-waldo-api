@@ -94,4 +94,5 @@ const checkPositionIsClose = (char_x, char_y, user_x, user_y) => {
 5. Open a Pull Request
 
 ## License
-[MIT License](LICENSE)
+
+MIT License
